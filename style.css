@@ -1,0 +1,197 @@
+/* START  navigation module CSS here   */
+/* 
+.navbar{
+	
+	background-color:#505962;
+	margin-bottom: 20px;
+}
+.navbar-brand img{
+height: 2rem;
+margin-right:10px;
+position:relative;
+bottom:5px;
+
+}
+.navbar li{
+margin-right:10px;
+font-size: 20px;
+
+} */
+.body{
+    
+    font-family: 'Moon Dance', cursive !important; 
+}
+
+
+
+.navbar {
+	padding: .8rem;
+    background-image: url(./images/d.webp);
+    background-size: cover;
+}
+ .navbar-nav li {
+	 padding-right: 20px;
+ }
+ .nav-link {
+	 /* font-size: 1.1em !important; */
+     color:white !important;
+     font-size: large;
+     font-style: inherit;
+     font-family: 'Moon Dance', cursive; 
+     font-size:30px;
+ }
+ .navbar-brand img{
+	height:4rem;
+	margin-right:10px;
+	position: relative;
+    bottom:5px;
+
+}
+
+
+
+
+/* .navbar{
+	border-bottom: #008ed6 3px solid;
+	opacity: 0.8;
+}
+ .navbar-brand img{
+	height:2rem;
+	margin-right:10px;
+	position:relative;
+    bottom:5px;
+
+} */
+
+/* .carousel-item{
+    background: hsla(352, 83%, 64%, 1);
+
+    background: linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%);
+    
+    background: -moz-linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%);
+    
+    background: -webkit-linear-gradient(90deg, hsla(352, 83%, 64%, 1) 0%, hsla(230, 90%, 68%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#EF566A", endColorstr="#627AF7", GradientType=1 );
+} */
+.carousel-item img{
+    height: 500px;
+    background-size: cover;
+    object-fit: contain;
+    background-image: url(./images/sd.jpg);
+    background-repeat: no-repeat;
+
+} 
+
+
+
+
+/* END  navigation module CSS here   */
+
+/* START CAROUSEL MODULES CSS */
+
+
+#carousel img
+{
+	height:550px;
+          
+}
+
+
+
+/* END CAROUSEL MODULES CSS*/
+
+/* START THREE PHOTO MODULES CSS*/
+
+#threePhotoSection{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+#threePhotoSection img
+{
+	width:100%;
+	height:300px;
+}
+#threePhotoSection h3
+{
+margin-top:50px;
+margin-bottom:50px;
+}
+#threePhotoSection
+{
+	margin-bottom:30px;
+}
+
+
+
+/* END OF THREE PHOTO MODULES CSS*/
+
+/* START OF PARAGRAPH MODULES CSS*/
+
+
+#moreAboutUs h3 
+{
+	padding:25px;
+	padding-bottom:40px;
+	color:rgb(4, 4, 62);
+}
+
+#moreAboutUs  blockquote
+{
+	padding:55px;
+	
+}
+#moreAboutUs
+{
+	background-image: url("./images/nj.jpg");
+	
+	 background-width: 100%;
+	color:black;
+}
+
+
+/*-- Resources Section --*/
+
+
+
+/* END OF PARAGRAPH MODULES CSS*/
+
+/* START OF TABLE MODULE CSS*/
+/* END OF TABLE MODULE CSS*/
+
+/* START OF FORM MODULES CSS*/
+
+
+.contact{
+    background-image: url("./images/fg.jpg");
+   }
+
+
+
+/* END OF FORM MODULES CSS*/
+
+/* START OF BUTTON CSS*/
+
+
+.btn{
+	margin-left:auto;
+	margin-right:auto;display:block;
+	margin-bottom:50px;
+    margin-top:50px;
+}
+
+
+
+/* END OF BUTTON CSS*/
+
+ /* START OF FOOTER CSS*/
+
+
+ .footer{
+	background-image: url("./images/RCB.jpg");
+	color:white;
+}
+
+
+
+ /* END OF FOOTER CSS*/
